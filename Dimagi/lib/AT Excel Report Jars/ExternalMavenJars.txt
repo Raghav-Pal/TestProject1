@@ -1,0 +1,47 @@
+ant-launcher
+mvn install:install-file -Dfile=ant-launcher.jar -DgroupId=com.extjar.framework -DartifactId=ant-launcher -Dversion=1.0 -Dpackaging=jar
+
+ant-testutil
+mvn install:install-file -Dfile=ant-testutil.jar -DgroupId=com.extjar.framework -DartifactId=ant-testutil -Dversion=1.0 -Dpackaging=jar
+
+ant
+mvn install:install-file -Dfile=ant.jar -DgroupId=com.extjar.framework -DartifactId=ant -Dversion=1.0 -Dpackaging=jar
+
+axis-ant
+mvn install:install-file -Dfile=axis-ant.jar -DgroupId=com.extjar.framework -DartifactId=axis-ant -Dversion=1.0 -Dpackaging=jar
+
+axis-REV609819
+mvn install:install-file -Dfile=axis-REV609819.jar -DgroupId=com.extjar.framework -DartifactId=axis-REV609819 -Dversion=1.0 -Dpackaging=jar
+
+jaxrpc
+mvn install:install-file -Dfile=jaxrpc.jar -DgroupId=com.extjar.framework -DartifactId=jaxrpc -Dversion=1.0 -Dpackaging=jar
+
+jmock
+mvn install:install-file -Dfile=jmock-1.1.0.jar -DgroupId=com.extjar.framework -DartifactId=jmock -Dversion=1.1.0 -Dpackaging=jar
+
+mantisconnect
+mvn install:install-file -Dfile=mantisconnect-client-api-1.1.1.0.jar -DgroupId=com.extjar.framework -DartifactId=mantisconnect-client-api -Dversion=1.1.1.0 -Dpackaging=jar
+
+commons-discovery
+mvn install:install-file -Dfile=commons-discovery-0.2.jar -DgroupId=com.extjar.framework -DartifactId=commons-discovery -Dversion=0.2 -Dpackaging=jar
+
+saaj
+mvn install:install-file -Dfile=saaj.jar -DgroupId=com.extjar.framework -DartifactId=saaj -Dversion=1.0 -Dpackaging=jar
+
+testlink
+mvn install:install-file -Dfile=testlink-api-client-2.0.jar -DgroupId=com.extjar.framework -DartifactId=testlink-api-client -Dversion=2.0 -Dpackaging=jar
+
+wsdl4j
+mvn install:install-file -Dfile=wsdl4j-1.5.1.jar -DgroupId=com.extjar.framework -DartifactId=wsdl4j -Dversion=1.5.1 -Dpackaging=jar
+
+zfj-cloud-rest-client-1.0.jar
+mvn install:install-file -Dfile=zfj-cloud-rest-client-1.0.jar -DgroupId=com.extjar.framework -DartifactId=zephyr-restutil -Dversion=1.0 -Dpackaging=jar
+
+mvn install:install-file -Dfile=jira-client-0.5.jar -DgroupId=com.extjar.framework -DartifactId=jira-rest-client -Dversion=0.5 -Dpackaging=jar
+
+net-sf-json-lib.jar
+mvn install:install-file -Dfile=net-sf-json-lib.jar -DgroupId=com.extjar.framework -DartifactId=net-sf-json -Dversion=1.0 -Dpackaging=jar
+
+mvn install:install-file -Dfile=ezmorph-1.0.6.jar -DgroupId=com.extjar.framework -DartifactId=net-sf-ezmorph -Dversion=1.0 -Dpackaging=jar
+
+mvn install:install-file -Dfile=jira-rest-client-0.5.jar -DgroupId=com.extjar.framework -DartifactId=jira-rest-client -Dversion=0.5 -Dpackaging=jar
